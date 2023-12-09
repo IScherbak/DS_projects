@@ -23,4 +23,4 @@ product — объём запасов в скважине (тыс. баррел�
 
 ## Используемые библиотеки
 
-pandas, numpy, seaborn, math, matplotlib, scikit-learn, watnings
+pandas, numpy, seaborn, math, matplotlib, scikit-learn, warnings

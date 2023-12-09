@@ -26,4 +26,4 @@
 
 ## Используемые библиотеки: 
 
-pandas, mumpy, matplotlib, seaborn
+pandas, numpy, matplotlib, seaborn

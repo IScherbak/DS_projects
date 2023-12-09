@@ -15,4 +15,4 @@
 Лучшей моделью в рамках проекта оказался "Случайный лес" с показателем в 79,9% правильных ответов.
 
 ## Используемые библиотеки
-pandas, scikit-learn, seaborn, scipy.stats, warnings
+pandas, scikit-learn, seaborn, scipy, warnings
